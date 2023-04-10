@@ -19,17 +19,14 @@ The design of de novo protein sequences has great potential in achieving superio
 
 ## Installation and use
 
-This code requires that OmegaFold be installed:
-
-```
-pip install git+https://github.com/HeliXonProtein/OmegaFold.git
-```
-
 Two Jupyter notebooks are included in this repository that feature the two models.
 
-Model A: ProteinDiffusionGenerator_Model_A.ipynb
+Model A: ProteinDiffusionGenerator_Model_A_colab.ipynb
 
-Model B: ProteinDiffusionGenerator_Model_B.ipynb
+Model B: ProteinDiffusionGenerator_Model_B_colab.ipynb
+
+To run, just clike the Open in Colab bottom.
+Note that, the first run may take time due to initial download and installation of packages and models.
 
 ## Pretrained model weights
 
