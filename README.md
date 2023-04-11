@@ -21,11 +21,11 @@ The design of de novo protein sequences has great potential in achieving superio
 
 Two Jupyter notebooks are included in this repository that feature the two models.
 
-Model A: ProteinDiffusionGenerator_Model_A_colab.ipynb
+[Model A](https://colab.research.google.com/github/Bo-Ni/ProteinDiffusionGenerator_Colab/blob/main/ProteinDiffusionGenerator_Model_A_inference_colab.ipynb): ProteinDiffusionGenerator_Model_A_inference_colab.ipynb
 
-Model B: ProteinDiffusionGenerator_Model_B_colab.ipynb
+[Model B](https://colab.research.google.com/github/Bo-Ni/ProteinDiffusionGenerator_Colab/blob/main/ProteinDiffusionGenerator_Model_B_inference_colab.ipynb): ProteinDiffusionGenerator_Model_B_inference_colab.ipynb
 
-To run, just clike the Open in Colab bottom.
+To run, just clike the links above or the "open in Colab" badges.
 Note that, the first run may take time due to initial download and installation of packages and models.
 
 ## Pretrained model weights
